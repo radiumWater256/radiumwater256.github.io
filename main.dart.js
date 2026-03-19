@@ -85107,7 +85107,7 @@ if(r>0){p=$.au().h(0,m).h(0,l.x)
 p.toString
 o=l.c.r
 o.toString
-o=A.aAI(A.a0(p+" ("+B.b.bk(A.auz(!0,o,l.x),"/")+")",n,n,n,q,n,n),new A.apW(l,a))
+o=A.aAI(A.a0(p+" "+B.b.bk(A.auz(!0,o,l.x),"/"),n,n,n,q,n,n),new A.apW(l,a))
 p=o}else p=n
 if(p!=null)k.push(p)
 p=B.a7.h(0,l.c.r)
@@ -85115,7 +85115,7 @@ if(r<p.gD(p)-1){r=$.au().h(0,m).h(0,l.x)
 r.toString
 p=l.c.r
 p.toString
-l=A.aAI(A.a0(r+" "+B.b.bk(A.auz(!1,p,l.x),"/")+"  ",n,n,n,q,n,n),new A.apX(l,a))}else l=n
+l=A.aAI(A.a0(r+" "+B.b.bk(A.auz(!1,p,l.x),"/"),n,n,n,q,n,n),new A.apX(l,a))}else l=n
 if(l!=null)k.push(l)
 return new A.u6(s,k,n)},
 $S:513}
