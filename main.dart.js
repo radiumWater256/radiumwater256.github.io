@@ -26303,7 +26303,7 @@ s=p?3:4
 break
 case 3:A.bo("Confirm Download of Traffic news")
 s=5
-return A.a1(new A.a74(3000,"http://cors.io/?https://programme.rthk.hk/channel/radio/trafficnews/index.php?d="+b).jJ(),$async$a02)
+return A.a1(new A.a74(3000,"https://cors.io/?https://programme.rthk.hk/channel/radio/trafficnews/index.php?d="+b).jJ(),$async$a02)
 case 5:o=a1
 b=Date.now()
 p=o.b
