@@ -90157,7 +90157,7 @@ q=$.ab().h(0,"QUICKINFO_RELOAD_BTN_STR").h(0,k.Q)
 q.toString
 o=t.p
 i=A.p_(A.c([r,A.o4(A.iZ(n,n,n,A.bw(B.mK,n,n,n),n,n,new A.ajw(p),n,n,n,n),n,q,n,n)],o),s,0,i)
-s=A.bH(A.pb(new A.ax(B.aC,A.aG7(p.x,20,A.azv(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,"Enter a message",n,n,n,n,n,n,n,n,n,!0,!0,n,n,n,n,n,n,n,n,A.iZ(n,n,n,A.bw(B.Or,n,n,n),n,n,new A.ajx(p),n,n,n,n),n,n,n,n,n),!1,50,1,new A.ajy(p)),n)),75,n)
+s=A.bH(A.pb(new A.ax(B.aC,A.aG7(p.x,20,A.azv(n,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!0,!0,n,n,n,n,n,n,n,n,A.iZ(n,n,n,A.bw(B.Or,n,n,n),n,n,new A.ajx(p),n,n,n,n),n,n,n,n,n),!1,50,1,new A.ajy(p)),n)),75,n)
 if(k.b){m=A.ap(a,n,m).w
 r=k.b?0.4:0.001
 r=m.a.b*r-85
@@ -90165,7 +90165,7 @@ m=r}else{m=A.ap(a,n,m).w
 r=k.b?0.4:0.001
 r=m.a.b*r
 m=r}r=A.c([A.P("No Data",n,n,n,n,n,n,n)],t.LT)
-return A.bH(A.qX(i,A.bS(A.c([s,new A.d6(new A.a6(0,1/0,0,m),A.fP(new A.fF(A.axl(k.c.h(0,"timestamp")),new A.ajz(p,k),r,n,t.MK),p.r,B.U,n,n,n,B.a6),n)],o),B.z,B.D,B.E,0),n,n,new A.iC(p.f,new A.ajA(p,k),n,n,t.O8)),l.a.b*(j+0.05),n)},
+return A.bH(A.qX(i,A.bS(A.c([s,new A.d6(new A.a6(0,1/0,0,m),A.fP(new A.fF(A.axl(k.c.h(0,"timestamp")),new A.ajz(p,k),r,n,t.MK),p.r,B.U,n,n,n,B.a6),n)],o),B.z,B.D,B.E,0),n,n,new A.iC(p.f,new A.ajA(p,k),n,n,t.O8)),l.a.b*(j+0.059),n)},
 $S:123}
 A.ajv.prototype={
 $0(){var s,r=this.b
